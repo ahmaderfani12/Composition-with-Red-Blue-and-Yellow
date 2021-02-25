@@ -4,4 +4,4 @@ ReCreated "Composition II with Red Blue and Yellow" from Piet Mondriaan in fragm
 <br>
 executable on http://editor.thebookofshaders.com/
 <br>
-![alt text](https://github.com/ahmaderfani12/Composition-with-Red-Blue-and-Yellow/blob/main/Preview.gif?raw=true)
+![alt text](https://github.com/ahmaderfani12/Composition-with-Red-Blue-and-Yellow/blob/main/preview.gif?raw=true)
